@@ -1,0 +1,21 @@
+{
+  "id": "prevent-player-chat-deletion",
+  "title": "Prevent Player Chat Deletion",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "A simple module to prevent players from deleting their own chat messages.",
+  "authors": [
+    {
+      "name": "Norc",
+      "discord": "Norc#5108",
+	  "email": "danorc451@gmail.com"
+      "flags": {}
+    }
+  ],
+  "esmodules": [
+    "prevent_player_chat_deletion.js"
+  ]
+}

@@ -1,7 +1,6 @@
 # Prevent Player Chat Deletion
 A simple module that removes the ability of non-GM users to delete their own chat messages.
 
-## Additional Details
 Typically, when a player right-clicks a chat message they sent, a context menu displays containing two options:
 
 1. Make Private / Reveal to Everyone (eye icon)
